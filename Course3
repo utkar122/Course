@@ -8,12 +8,11 @@ You can choose one module from the list below:-
 Utkarsh Dixit
 # Dynamic Programming
 
-1
-
-2
 Dynamic programming is an algorithmic technique for solving problems by breaking them down into smaller subproblems and using the solutions to those subproblems to solve the original problem. It is a powerful technique that can be used to solve a wide variety of problems, including
 
-Optimal substructure: A problem has optimal substructure if the optimal solution to the problem can be obtained by combining optimal solutions to its subproblems.
-Overlapping subproblems: A problem has overlapping subproblems if the same subproblem is solved multiple times in the course of solving the original problem.
+1. Optimal substructure: A problem has optimal substructure if the optimal solution to the problem can be obtained by combining optimal solutions to its subproblems.
+
+2. Overlapping subproblems: A problem has overlapping subproblems if the same subproblem is solved multiple times in the course of solving the original problem.
+
 Dynamic programming algorithms work by first storing the solutions to all the subproblems that will be encountered during the course of solving the original problem. These solutions are then used to solve the original problem efficiently.
 
